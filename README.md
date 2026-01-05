@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **Automation and DSA**
 
-- 📫 How to reach me **akarthik1304@gmail.com**
+- 📫 Reach me at:  **akarthik1304@gmail.com**
 
-- 
 ###
 
 
