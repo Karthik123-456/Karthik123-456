@@ -1,7 +1,7 @@
 <h2>About me</h2>
 
 
-<p align="left">Hi 👋 I’m Karthik, a passionate MERN Stack Developer and freelance software engineer from India. I focus on building user-friendly applications with clean, elegant UI and a solid, scalable architecture under the hood.</p>
+<p align="left">Hi I’m Karthik, a passionate MERN Stack Developer and freelance software engineer from India. I focus on building user-friendly applications with clean, elegant UI and a solid, scalable architecture under the hood.</p>
 
 - 🔭 I’m currently working on **MERN stack projects**
 
